@@ -16,7 +16,8 @@ public class UIMenu : MonoBehaviour
         Time.timeScale = 1;
     } 
     public void Return()
-    {
+    { 
+        Score.score = 0;
         SceneManager.LoadScene(0);
     }
     public void Boss()
