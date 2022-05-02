@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 1bbff67e52c697e41a19e613b671f2b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 975770874050310520
+    second: NES - Battle City JPN - General Sprites PNG_0
+  - first:
+      213: -158624623559041273
+    second: NES - Battle City JPN - General Sprites PNG_1
+  - first:
+      213: -5081553244069514994
+    second: NES - Battle City JPN - General Sprites PNG_2
+  - first:
+      213: -2555280981379242241
+    second: NES - Battle City JPN - General Sprites PNG_3
+  - first:
+      213: 6449752679590244596
+    second: NES - Battle City JPN - General Sprites PNG_4
+  - first:
+      213: 7540824837227336060
+    second: NES - Battle City JPN - General Sprites PNG_5
+  - first:
+      213: 4143949744012039180
+    second: NES - Battle City JPN - General Sprites PNG_6
+  - first:
+      213: 7559801595222454065
+    second: NES - Battle City JPN - General Sprites PNG_7
+  - first:
+      213: 8053329480132883354
+    second: NES - Battle City JPN - General Sprites PNG_8
+  - first:
+      213: 69658022262733957
+    second: NES - Battle City JPN - General Sprites PNG_9
+  - first:
+      213: -2654872180938287300
+    second: NES - Battle City JPN - General Sprites PNG_10
+  - first:
+      213: 4544029306688779362
+    second: NES - Battle City JPN - General Sprites PNG_11
+  - first:
+      213: -7241235404078066514
+    second: NES - Battle City JPN - General Sprites PNG_12
+  - first:
+      213: -2605764116306889512
+    second: NES - Battle City JPN - General Sprites PNG_13
+  - first:
+      213: 899063533353373148
+    second: NES - Battle City JPN - General Sprites PNG_14
+  - first:
+      213: 2351186224496056378
+    second: NES - Battle City JPN - General Sprites PNG_15
+  - first:
+      213: 3101881264010556177
+    second: NES - Battle City JPN - General Sprites PNG_16
+  - first:
+      213: -971402599492601010
+    second: NES - Battle City JPN - General Sprites PNG_17
+  - first:
+      213: -1664043374902577668
+    second: NES - Battle City JPN - General Sprites PNG_18
+  - first:
+      213: 7584136926453540162
+    second: NES - Battle City JPN - General Sprites PNG_19
+  - first:
+      213: 9153162479618412704
+    second: NES - Battle City JPN - General Sprites PNG_20
+  - first:
+      213: 7602706985209109877
+    second: NES - Battle City JPN - General Sprites PNG_21
+  - first:
+      213: -8369244641360861169
+    second: NES - Battle City JPN - General Sprites PNG_22
+  - first:
+      213: -4387392374159943730
+    second: NES - Battle City JPN - General Sprites PNG_23
+  - first:
+      213: -1066572310396943193
+    second: NES - Battle City JPN - General Sprites PNG_24
+  - first:
+      213: -281560914176723358
+    second: NES - Battle City JPN - General Sprites PNG_25
+  - first:
+      213: 1190384733105105727
+    second: NES - Battle City JPN - General Sprites PNG_26
+  - first:
+      213: 6039766385298036229
+    second: NES - Battle City JPN - General Sprites PNG_27
+  - first:
+      213: 548486615455391786
+    second: NES - Battle City JPN - General Sprites PNG_28
+  - first:
+      213: 5637445348553415216
+    second: NES - Battle City JPN - General Sprites PNG_29
+  - first:
+      213: 3611151531122609632
+    second: NES - Battle City JPN - General Sprites PNG_30
+  - first:
+      213: -932612950814831279
+    second: NES - Battle City JPN - General Sprites PNG_31
+  - first:
+      213: 6640570140621204687
+    second: NES - Battle City JPN - General Sprites PNG_32
+  - first:
+      213: 212982028042745012
+    second: NES - Battle City JPN - General Sprites PNG_33
+  - first:
+      213: 4418810230859588420
+    second: NES - Battle City JPN - General Sprites PNG_34
+  - first:
+      213: 7916618125374276999
+    second: NES - Battle City JPN - General Sprites PNG_35
+  - first:
+      213: -3851955985272260231
+    second: NES - Battle City JPN - General Sprites PNG_36
+  - first:
+      213: -8173704211229153914
+    second: NES - Battle City JPN - General Sprites PNG_37
+  - first:
+      213: -960347186700598644
+    second: NES - Battle City JPN - General Sprites PNG_38
+  - first:
+      213: -4316405344038392251
+    second: NES - Battle City JPN - General Sprites PNG_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f0f9a072aa8d00800000000000000
+      internalID: 975770874050310520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f122cceb37ccdf0800000000000000
+      internalID: -158624623559041273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b00c6f32ba79b0800000000000000
+      internalID: -5081553244069514994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff624936c71d98cd0800000000000000
+      internalID: -2555280981379242241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b91cc3ef128950800000000000000
+      internalID: 6449752679590244596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d0688c3466a860800000000000000
+      internalID: 7540824837227336060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0498ea2654428930800000000000000
+      internalID: 4143949744012039180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6aaf4f7fc9e860800000000000000
+      internalID: 7559801595222454065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93708a6e7c23cf60800000000000000
+      internalID: 8053329480132883354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf9b82a9977f000800000000000000
+      internalID: 69658022262733957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 113
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375b1b41dff72bd0800000000000000
+      internalID: -2654872180938287300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26436224492af0f30800000000000000
+      internalID: 4544029306688779362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d1f404c6f18b90800000000000000
+      internalID: -7241235404078066514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d47117975776dbd0800000000000000
+      internalID: -2605764116306889512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0908258d1a7c00800000000000000
+      internalID: 899063533353373148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3811eff96711a020800000000000000
+      internalID: 2351186224496056378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 97
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f9cc33981c0b20800000000000000
+      internalID: 3101881264010556177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3a538b72e482f0800000000000000
+      internalID: -971402599492601010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f614fd5128e8e0800000000000000
+      internalID: -1664043374902577668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245af252a54404960800000000000000
+      internalID: 7584136926453540162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d61997c0960f70800000000000000
+      internalID: 9153162479618412704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d15c0e8bd328960800000000000000
+      internalID: 7602706985209109877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08285147587adb80800000000000000
+      internalID: -8369244641360861169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec750ff81e9dc13c0800000000000000
+      internalID: -4387392374159943730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c5877226c231f0800000000000000
+      internalID: -1066572310396943193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 249
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bcdf17d1b71cf0800000000000000
+      internalID: -281560914176723358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 241
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b27ca9b98158010800000000000000
+      internalID: 1190384733105105727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 241
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d802078f81d350800000000000000
+      internalID: 6039766385298036229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206646bbad9c9700800000000000000
+      internalID: 548486615455391786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a54311daa3c3e40800000000000000
+      internalID: 5637445348553415216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edcba25f236d1230800000000000000
+      internalID: 3611151531122609632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dc0c16671be03f0800000000000000
+      internalID: -932612950814831279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcceac11c5b082c50800000000000000
+      internalID: 6640570140621204687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 150
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b70da60aa4f200800000000000000
+      internalID: 212982028042745012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 151
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436f3c3e74c25d30800000000000000
+      internalID: 4418810230859588420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 150
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854a51bd3a7ddd60800000000000000
+      internalID: 7916618125374276999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979386f907a1b8ac0800000000000000
+      internalID: -3851955985272260231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856296735b219e80800000000000000
+      internalID: -8173704211229153914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 130
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c824aa362592ca2f0800000000000000
+      internalID: -960347186700598644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battle City JPN - General Sprites PNG_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e6ef9753c0914c0800000000000000
+      internalID: -4316405344038392251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
